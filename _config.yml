@@ -1,7 +1,7 @@
 name: Art Of Freedom
 favicon: null
-layout_spectrum: 0.9390074827242643
-typography_spectrum: 0.14390288782306015
+layout_spectrum: 0.82345
+typography_spectrum: 0.57447
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.6875
-  lightness: 0.2640195828862488
-  saturation: 0.22206090367399156
+  lightness: 0.1875
+  saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
