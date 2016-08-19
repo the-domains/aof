@@ -3,21 +3,17 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
 description: "Art of Freedom is looking for volunteers, interns, fashion designers and artist to join our cause.\_"
-datePublished: '2016-03-30T23:03:34.616Z'
-dateModified: '2016-03-30T22:59:34.280Z'
-title: Volunteer
+datePublished: '2016-08-19T01:03:10.785Z'
+dateModified: '2016-08-19T01:03:09.360Z'
+title: 'Volunteer to make a difference:'
 author: []
 sourcePath: _posts/2016-03-30-volunteer.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: true
 url: volunteer/index.html
 _type: WebPage
 
