@@ -1,20 +1,4 @@
-name: Art Of Freedom
-favicon: null
-layout_spectrum: 0.75416
 typography_spectrum: 0.57447
-title: Art Of Freedom
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -26,4 +10,24 @@ color:
   lightness: 0.6875
   saturation: 0.0625
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75416
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Art Of Freedom
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Volunteer
+    id: dbfb3256-b666-448d-8abd-ff06ec0e3d2f
+    type: content
+favicon: null
+title: Art Of Freedom
 purpose: []
